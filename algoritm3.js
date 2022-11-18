@@ -8,6 +8,16 @@
  * в противном случае вывести номер первого числа, нарушающего
  * закономерность.
  */
+
+// Series22
+function process(numbers) {		
+	for (let i = 1; i < numbers.length; ++i) {
+		if (numbers[i] >= numbers[i - 1]) {
+			return i;
+		}
+	}
+}
+ 
  var fs = require('fs');
  const { parse } = require('querystring');
  fs.open("file.txt", 'r', function(err, fd){
@@ -28,11 +38,15 @@
              var lines = data.split('\n');
              console.log('There are %d lines.', lines.length);
              console.log(data);
-            //  console.log(lines);
+             //console.log(lines);
              
-             for(let i = 0; i < lines.length; i ++){            
-             
+			 let numbers = new Array();
+             for(let i = 0; i < lines.length; i ++){
+				numbers.push( Number(lines[i]) );
              }
+			 
+			 let index = process(numbers);
+			 console.log(`${index}: ${numbers[index]}`);
             
              }
              
