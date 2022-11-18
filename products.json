@@ -1,0 +1,164 @@
+[
+  {
+    "artnumber": "1231",
+    "name": "Product name 1",
+    "price": "12.50",
+    "amount": "20",
+    "oldPrice": "15.00",
+    "brand": "Brand 1"
+  },
+  {
+    "artnumber": "1232",
+    "name": "Product name 2",
+    "price": null,
+    "amount": "2",
+    "brand": "Brand 3"
+  },
+  {
+    "artnumber": "1233",
+    "name": "Product name 3",
+    "price": "122.12",
+    "amount": "6",
+    "brand": "Brand 1"
+  },
+  {
+    "artnumber": "1234",
+    "name": "Product name 4",
+    "price": "1.55",
+    "oldPrice": "2.00",
+    "brand": "Brand 5"
+  },
+  {
+    "artnumber": "1235",
+    "price": "5.00",
+    "amount": "1",
+    "oldPrice": "6.00",
+    "brand": "Brand 6"
+  },
+  {
+    "name": "Product name 6",
+    "price": "128.20",
+    "amount": "0",
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1237",
+    "name": "Product name 7",
+    "price": "50.50",
+    "amount": "5",
+    "oldPrice": "60.00",
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1238",
+    "name": "Product name 8",
+    "price": "30.00",
+    "amount": "5",
+    "brand": "Brand 8"
+  },
+  {
+    "artnumber": "1239",
+    "name": "Product name 9",
+    "price": "00.00",
+    "amount": "5",
+    "brand": "Brand 12"
+  },
+  {
+    "artnumber": "1240",
+    "name": "Product name 10",
+    "price": "13.00",
+    "amount": "8",
+    "oldPrice": "15.00",
+    "brand": "Brand 3"
+  },
+  {
+    "artnumber": "1241",
+    "name": "Product name 11",
+    "price": "7.50",
+    "amount": "-1",
+    "oldPrice": "10.00",
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1242",
+    "name": "Product name 12",
+    "price": "55.41",
+    "amount": "80",
+    "brand": "Brand 1"
+  },
+  {
+    "artnumber": "1231",
+    "name": "Product name 1",
+    "price": "13.50",
+    "amount": "20",
+    "brand": "Brand 1"
+  },
+  {
+    "artnumber": "1244",
+    "name": "Product name 14",
+    "price": "40.50",
+    "amount": "20",
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1245",
+    "name": "Product name 15",
+    "price": "70.00",
+    "amount": "0",
+    "oldPrice": "80.00",
+    "brand": "Brand 4"
+  },
+  {
+    "artnumber": "1246",
+    "name": "Product name 16",
+    "price": "7.50",
+    "amount": "10",
+    "oldPrice": null,
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1247",
+    "name": "Product name 17",
+    "price": "8.00",
+    "amount": "10",
+    "oldPrice": "10.00"
+  },
+  {
+    "artnumber": "1248",
+    "name": "Product name 18",
+    "price": "9.00",
+    "amount": "10",
+    "oldPrice": "9.00",
+    "brand": "Brand 3"
+  },
+  {
+    "artnumber": "1249",
+    "name": "Product name 19",
+    "price": "1.50",
+    "amount": "15",
+    "oldPrice": "2.00",
+    "brand": "Brand 3"
+  },
+  {
+    "artnumber": "error",
+    "name": "Product name 20",
+    "price": "5.01",
+    "amount": "12",
+    "oldPrice": "6.00",
+    "brand": "Brand 2"
+  },
+  {
+    "artnumber": "1251",
+    "name": "Product name 21",
+    "price": "20.00",
+    "amount": "5"
+  },
+  {
+    "artnumber": "1252",
+    "name": "Product name 22",
+    "price": "40.00",
+    "amount": "90",
+    "oldPrice": "50.00",
+    "brand": "Brand 2"
+  }
+]
