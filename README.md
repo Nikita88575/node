@@ -5,7 +5,7 @@ You’d need to prepare a simple script which parse log file from nginx, convert
 Requirements 
 
 - You can use any script language you’d like
-- The resulting script must have the ability to parse nginx logs, convert it to csv and srore it into Git 
+- The resulting script must have the ability to parse nginx logs, convert it to csv and store it into Git 
 - README with enough information 
 
 Bonus points
